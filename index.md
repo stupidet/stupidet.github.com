@@ -11,6 +11,7 @@ tagline: Supporting tagline
 
  * <http://libevent.org/>
  * <http://software.schmorp.de/pkg/libev.html>, <http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod>
+ * [开题报告](http://baike.baidu.com/view/88662.htm)
 
 -----
 #### 2013-01-14 18:46:00 Monday 宿舍
