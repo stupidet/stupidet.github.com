@@ -95,6 +95,12 @@ task :page do
   end
 end # task :page
 
+desc "Publish"
+task :publish do
+  system "./publish"
+end # task :publish
+
+
 desc "Launch preview environment"
 task :preview do
   system "jekyll --auto --server"
