@@ -37,7 +37,7 @@ tagline: Supporting tagline
  * socket.SO_REUSEADDR
  * Emacs 异步
  * VS price
- * @classmethod & @staticmethod
+ * `@classmethod` & `@staticmethod`
  * Python对象模型，温习一下，用自己的话描述一下。Type，
 
 -----
