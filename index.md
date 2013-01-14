@@ -3,44 +3,25 @@ layout: page
 title: Hello World!
 tagline: Supporting tagline
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## 2013-01-14 12:31:56 Monday 宿舍
 
-## Update Author Attributes
+为了可以随意一些，另外弄个域名来写日记吧。换成jekyll。
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## 2013-01-14 02:09:01 Monday 宿舍
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+为什么在网上写日记，首先方便，懒得拿日记本了，有什么不可告人的东西再写到日记本吧。这里主要记录自己当天干了什么，纯流水账。其次是，因为现在看去年3月份的[Clover进度](http://everet.org/2012/01/clover-progress.html ) ，心里别有一番滋味。
 
-    $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+## 2013-01-14 02:05:05 Monday 宿舍
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+又半夜了，刚刚在弄Emacs中markdown的图片显示，完成了。然后在弄写日记的快捷键`C-c o d`，哈哈，超快速开始写日记。
 
-## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+## 2013-01-13 23:48:24 Sunday 宿舍
+
+今天天气不错，久违的阳光。上午睡觉，中午上网忘记干了什么，下午出去生物岛转了一圈，晚上很困，什么也没干，现在冲完凉才恢复精力。准备看一下tornado的chatdemo。
 
 
