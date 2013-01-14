@@ -3,6 +3,16 @@ layout: page
 title: My Diary
 tagline: Supporting tagline
 ---
+#### 2013-01-15 00:40:44 Tuesday 宿舍
+
+刚刚把Markdown中显示图片的文章写了。现在等芸冲完凉后商议一下明天如何。
+
+问题：
+
+ * <http://libevent.org/>
+ * <http://software.schmorp.de/pkg/libev.html>, <http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod>
+
+-----
 #### 2013-01-14 18:46:00 Monday 宿舍
 
 > 第一次来伦敦，第一次遇见大雾，她走丢了，眼镜都掉了。这时，听到耳边柔和的普通话响起：“迷路了吧？你想去哪儿？我带你吧。”那人带着她七拐八绕，很快就到达了目的地。临别，看着他在雾气里模糊的面庞，她好奇地问道：“您是盲人？”他笑着回答说：“不，我是北京人。”
