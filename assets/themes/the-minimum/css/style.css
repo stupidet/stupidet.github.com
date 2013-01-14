@@ -851,3 +851,9 @@ pre {
     margin-right: 360px;
   }
 }
+
+.my-disqus {
+    width: 43.125em;
+    margin-left: auto;
+    margin-right: auto;
+}
