@@ -80,8 +80,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : everet
-      short_name : jekyllbootstrap
+    disqus : 
+      short_name : everet
     livefyre :
       site_id : 123
     intensedebate :
